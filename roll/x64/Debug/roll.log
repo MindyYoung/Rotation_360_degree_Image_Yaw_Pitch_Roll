@@ -1,0 +1,24 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (roll.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+d:\software\open cv\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\software\open cv\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\software\open cv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\software\open cv\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\lab\c##&matlab_code&ffmepg\open_cv\roll\roll\main.cpp(156): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\lab\c##&matlab_code&ffmepg\open_cv\roll\roll\main.cpp(259): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\lab\c##&matlab_code&ffmepg\open_cv\roll\roll\main.cpp(180): warning C4101: “i”: 未引用的局部变量
+e:\lab\c##&matlab_code&ffmepg\open_cv\roll\roll\main.cpp(365): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\lab\c##&matlab_code&ffmepg\open_cv\roll\roll\main.cpp(436): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\lab\c##&matlab_code&ffmepg\open_cv\roll\roll\main.cpp(437): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\lab\c##&matlab_code&ffmepg\open_cv\roll\roll\main.cpp(437): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\lab\c##&matlab_code&ffmepg\open_cv\roll\roll\main.cpp(389): warning C4101: “dalpha”: 未引用的局部变量
+e:\lab\c##&matlab_code&ffmepg\open_cv\roll\roll\main.cpp(512): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\lab\c##&matlab_code&ffmepg\open_cv\roll\roll\main.cpp(513): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\lab\c##&matlab_code&ffmepg\open_cv\roll\roll\main.cpp(513): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\lab\c##&matlab_code&ffmepg\open_cv\roll\roll\main.cpp(462): warning C4101: “dalpha”: 未引用的局部变量
+e:\lab\c##&matlab_code&ffmepg\open_cv\roll\roll\main.cpp(583): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\lab\c##&matlab_code&ffmepg\open_cv\roll\roll\main.cpp(539): warning C4101: “dnewalpha”: 未引用的局部变量
+e:\lab\c##&matlab_code&ffmepg\open_cv\roll\roll\main.cpp(540): warning C4101: “y”: 未引用的局部变量
+e:\lab\c##&matlab_code&ffmepg\open_cv\roll\roll\main.cpp(539): warning C4101: “dalpha”: 未引用的局部变量
+  roll.vcxproj -> E:\lab\C##&matlab_code&ffmepg\open_CV\roll\x64\Debug\rotation.exe
+  roll.vcxproj -> E:\lab\C##&matlab_code&ffmepg\open_CV\roll\x64\Debug\rotation.pdb (Full PDB)
