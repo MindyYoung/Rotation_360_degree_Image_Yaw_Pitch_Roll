@@ -15,5 +15,3 @@ Rotation 360 degree video in yaw, pitch and roll
 ---------------
 	- C++ vs2015+ OpenCV
 		-- rotation.sln
-
-# Rotation_360_degree_video_Yaw_Pitch_Roll
